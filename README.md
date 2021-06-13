@@ -1,2 +1,3 @@
-# go-package-sample
+# Go Package Sample
+
 Golang Package sample. Calculate Fibonacci.

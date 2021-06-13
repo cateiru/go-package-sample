@@ -7,7 +7,8 @@ type Calculate struct {
 	CalType int
 }
 
-func (cal *Calculate) FibonacciCal(caltype int) *Calculate {
+func FibonacciCal(caltype int) *Calculate {
+	cal := new(Calculate)
 	cal.CalType = caltype
 	return cal
 }

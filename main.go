@@ -9,7 +9,11 @@ import (
 func main() {
 	a := fibonacci.FibonacciCal(1)
 
-	result := a.Cal(10)
+	result, err := a.Cal(10)
+
+	if err != nil {
+		fmt.Println(err)
+	}
 
 	fmt.Println(result)
 }
