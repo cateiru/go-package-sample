@@ -1,2 +1,4 @@
 github.com/yuto51942/go-package-sample/fibonacci v0.0.0-20210613125839-ae52b558e4f8 h1:ijD98IycEfH7/V0WqA+t1d3zHVx8AyW6YtzVQhFjdJY=
 github.com/yuto51942/go-package-sample/fibonacci v0.0.0-20210613125839-ae52b558e4f8/go.mod h1:dF2xG5Emse3z4+pqfUjsTv/qa/gF7f3UmITHRJqzoZw=
+github.com/yuto51942/go-package-sample/fibonacci v0.0.0-20210613130720-a48d4c5cae1b h1:lA4CShCODGwnQLYMMuDZdQ00Dj41LmS8ndVO7nOmmow=
+github.com/yuto51942/go-package-sample/fibonacci v0.0.0-20210613130720-a48d4c5cae1b/go.mod h1:dF2xG5Emse3z4+pqfUjsTv/qa/gF7f3UmITHRJqzoZw=
