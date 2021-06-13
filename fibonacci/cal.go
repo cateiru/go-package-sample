@@ -7,6 +7,11 @@ type Calculate struct {
 	CalType int
 }
 
+func (cal *Calculate) FibonacciCal(caltype int) *Calculate {
+	cal.CalType = caltype
+	return cal
+}
+
 func (cal *Calculate) Cal(input int64) (int64, error) {
 	var result int64
 
